@@ -61,7 +61,7 @@
 </html>
 <script>
     function openSection(section){
-        window.location.href = "CV.php?section="+section;
+        window.location.href = "index.php?section="+section;
     }
 </script>
 
